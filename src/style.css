@@ -1,0 +1,18 @@
+.top-bar {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid black;
+}
+
+.top-bar-item:hover {
+  color: blue;
+}
+
+.info-bar {
+  border: 1px solid black;
+  height: 40px;
+  position: relative;
+  top: 3px;
+  text-align: center;
+  line-height: 40px;
+}
